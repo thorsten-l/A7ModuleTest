@@ -1,7 +1,7 @@
 # A7ModuleTest
 
-This is a test program for the Ai-Thinker A7 module connected to an
-Arduino Pro Micro or the Elecrow 32u4 with A7 module.
+This is a test program for the [Ai-Thinker A7](https://www.smart-prototyping.com/image/data/9_Modules/101756%20Wireless%20A6C/A6_A7_A6C_datasheet-EN.pdf) module connected to an
+Arduino Pro Micro or the [Elecrow 32u4 with A7](https://www.elecrow.com/wiki/index.php?title=32u4_with_A7_GPRS/GSM) module.
 
 ## Used PINs
 
@@ -44,3 +44,11 @@ you can switch on and off the GPS serial port
 ## Boot Sequence
 
 At the program start RESET, ENABLE and PWRKEY are set to HIGH level. After 3s RESET is set to LOW level.
+
+## Modules
+
+- [Elecrow A7 GSM GPRS GPS Module with Mega32U4 3 In 1 Development Board ](https://aliexpress.com/item/Elecrow-Mega32U4-with-A7-GSM-GPRS-GPS-Module-A6-A6C-DIY-Kit-Newest-Development-Board-Integrated/32790443050.html)
+
+- [Wireless Module Ai-Thinker A7 GSM GPRS GPS](https://aliexpress.com/item/Wireless-Module-A7-GSM-GPRS-GPS-3-In-1-Module-Shield-DC-5-9V-For-Arduino/32798617442.html)
+
+- [Pro Micro ATmega32U4](https://aliexpress.com/item/Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-For-Arduino-Pro-Mini-With-2-Row-Pin-Header/32808519179.html)
