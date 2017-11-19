@@ -52,3 +52,5 @@ At the program start RESET, ENABLE and PWRKEY are set to HIGH level. After 3s RE
 - [Wireless Module Ai-Thinker A7 GSM GPRS GPS](https://aliexpress.com/item/Wireless-Module-A7-GSM-GPRS-GPS-3-In-1-Module-Shield-DC-5-9V-For-Arduino/32798617442.html)
 
 - [Pro Micro ATmega32U4](https://aliexpress.com/item/Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-For-Arduino-Pro-Mini-With-2-Row-Pin-Header/32808519179.html)
+
+- [IRLIZ44N MOSFET](https://aliexpress.com/item/Free-shipping-10pcs-lot-IRLIZ44N-TO-220F-new-original/32676976844.html)
