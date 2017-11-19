@@ -12,6 +12,10 @@ The pin layout is taken from the Elecrow 32u4 with A7 module.
 - 5 ENABLE
 - 8 PWRKEY
 
+- 10 GPS RX software serial
+- 16 GPS TX software serial (not used)
+
+
 ## Serial Connections
 
 - Serial is console
